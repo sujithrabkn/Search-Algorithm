@@ -98,14 +98,22 @@ else:
 ```
 ## Output
 
+
 ### Using linear search method:
 ![linear](./images/linear.png)
+
+
 
 ### Using Binary Search(Iterative Method):
 ![iterative](./images/iterative.png)
 
+
+
 ### Using Binary Search (recursive Method):
 ![recursive](./images/rec.png)
+
+
+
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
